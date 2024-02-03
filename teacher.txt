@@ -1,0 +1,16 @@
+CS-101_Mohammad Harris~Tariq@Computer Science#hrs$123%2002^Male|03100908766/MBBs*Lahore+200,000
+SE-102_Ali~Butt@Software Engineering#ali123$12345%2000^Male|03225600005/MBBS*Loney wala+100,000
+BB-103_Tariq~Mahmood@Business#tariq001$123%2008^Male|03015920001/PHD*Lahore+500,000
+SS-104_Muneebah~Muqaddas@Social Sciences#muneebah12$12345%2002^Female|03156920001/MBBS*Germany+7000
+CS-105_Mohammad Harris~Tariq@Computer Science#hrs$123%2002^Male|03100407322/PHD*Lahore+200,000
+SE-106_Ali~Butt@Software Engineering#ali123$12345%2000^Male|03225600005/PHD*Loney wala+100,000
+BB-107_Tariq~Mahmood@Business#tariq001$123%2008^Male|03015920001/PHD*Lahore+500,000
+SS-108_Muneebah~Muqaddas@Social Sciences#muneebah12$12345%2002^Female|03156920001/MBBS*Germany+7000
+CS-109_Mohammad Harris~Tariq@Computer Science#hrs$123%2002^Male|03100407322/PHD*Lahore+200,000
+SE-110_Ali~Butt@Software Engineering#ali123$12345%2000^Male|0986544445/PHD*Loney wala+100,000
+BB-111_Tariq~Mahmood@Business#tariq001$123%2008^Male|03015920001/PHD*Lahore+500,000
+SS-112_Muneebah~Muqaddas@Social Sciences#muneebah12$12345%2002^Female|03156920001/MBBS*Germany+7000
+CS-113_alina~mumtaz@Computer Science#admin$123%2009^female|098888/ms*lahore+200k
+BB-114_Tariq~Mahmood@Business#tariq$123%2001^Male|03100407322/PHD*Lahore+200k
+CS-115_Dr Usman~Azhar@Computer Science#usman$112233%2003^Male|03100407322/PHD*London+1 Million
+CS-116_Najeeb~Ullah@Computer Science#nj123$12345%2001^Male|03123456/phd*lahire+2000000
